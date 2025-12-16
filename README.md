@@ -29,3 +29,6 @@ The application allows users to enter a **YouTube video URL**, fetches its comme
 - **Real-Time Data:** Ensures up-to-date sentiment analysis with real-time comment fetching.  
 
 **CommentAnaly** simplifies the process of gathering insights from YouTube comments, empowering creators to optimize their content strategy based on audience sentiment. Whether you're a **YouTuber, marketer, or researcher**, **CommentAnaly** helps you turn raw comments into actionable insights.
+
+
+Video Demo : https://www.linkedin.com/posts/activity-7306145864140365824-yIWf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0yYz0BkDKNlbG23-8AzMAKI4gZa0dEMXk
